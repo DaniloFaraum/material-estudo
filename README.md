@@ -1,2 +1,9 @@
-# material-python
-Material de estudo de python
+# Python
+- https://learnxinyminutes.com/docs/python/
+- https://automatetheboringstuff.com/2e/
+- OpenCV
+- https://www.freecodecamp.org/news/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607
+# JS
+- https://discordjs.guide/#before-you-begin
+# Geral
+- https://learnxinyminutes.com
