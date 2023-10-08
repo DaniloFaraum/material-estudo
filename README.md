@@ -1,7 +1,7 @@
 # Python
 - https://learnxinyminutes.com/docs/python/
 - https://automatetheboringstuff.com/2e/
-- OpenCV
+-  https://learnxinyminutes.com/docs/opencv/ - OpenCV
 - https://www.freecodecamp.org/news/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607
 - Selenium - Web scraping
 # JS
